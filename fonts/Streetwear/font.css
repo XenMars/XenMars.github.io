@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Streetwear';
+  src: url('Streetwear.eot');
+  src: url('Streetwear.eot?#iefix') format('embedded-opentype'),
+       url('Streetwear.svg#Streetwear') format('svg'),
+       url('Streetwear.ttf') format('truetype'),
+       url('Streetwear.woff') format('woff'),
+       url('Streetwear.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
